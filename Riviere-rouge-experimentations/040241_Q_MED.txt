@@ -1,0 +1,24 @@
+Ministère de l'Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs
+Données validées jusqu'au 2024-09-30, préliminaires par la suite
+Station:        040241         Rouge - à 8 km en aval de la ville de Rivière-Rouge                                                                                            
+Bassin versant: 1944.6 km²     Régime: Non influencé                                     
+Coordonnées:    (NAD83) 46° 21' 53" // -74° 49' 0"
+
+Date de création du fichier: 2024-10-31 17:51
+Particularité(s):
+- 
+- 
+- 
+Lexique:        *** 5 moyennes journalières débit manquantes dans le mois
+                --- 3 moyennes journalières débit manquantes consécutives dans le mois
+
+                Débit journalier en m³/s - Valeurs médianes mensuelles
+
+Année              Jan         Fév        Mars         Avr         Mai        Juin        Juil        Août        Sept         Oct         Nov         Déc              Annuel
+2020                                                                                                                                                 38.39                    
+2021             29.16       15.36       19.19       78.24       26.80       15.05       24.48       13.56       16.55       39.27       45.78       41.99               25.64
+2022             20.81       15.14       20.72       138.3       127.8       67.33       31.37       21.47       32.65       27.04       19.98       23.72               25.38
+2023             26.69       20.76       18.25       138.8       58.79       18.25       29.95       39.92       12.58       38.41       37.88       34.86               32.41
+2024             28.96       15.75       37.35       55.81       28.98       48.69       36.47       33.08       27.36                                                        
+
+Médianes         27.83       15.56       19.96       108.3       43.89       33.47       30.66       27.28       21.96       38.41       37.88       36.63
