@@ -1,0 +1,24 @@
+Ministère de l'Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs
+Données validées jusqu'au 2024-09-30, préliminaires par la suite
+Station:        040241         Rouge - à 8 km en aval de la ville de Rivière-Rouge                                                                                            
+Bassin versant: 1944.6 km²     Régime: Non influencé                                     
+Coordonnées:    (NAD83) 46° 21' 53" // -74° 49' 0"
+Constante géodésique:  aucune (Cette constante n'a pas de valeur légale)
+Date de création du fichier: 2024-10-31 17:11
+Particularité(s):
+- 
+- 
+- 
+Lexique:        *** 5 moyennes journalières niveau manquantes dans le mois
+                --- 3 moyennes journalières niveau manquantes consécutives dans le mois
+
+                Niveau journalier en m - Valeurs médianes mensuelles
+
+Année              Jan         Fév        Mars         Avr         Mai        Juin        Juil        Août        Sept         Oct         Nov         Déc              Annuel
+2020                                                                                                                                                 45.05                    
+2021             44.86       44.52       44.57       45.49       44.74       44.45       44.69       44.41       44.49       44.98       45.08       45.17               44.72
+2022             45.14       44.86       44.93       46.06       45.97       45.36       44.84       44.62       44.86       44.74       44.58       44.73               44.86
+2023             44.93       44.81       44.61       46.06       45.26       44.53       44.81       44.99       44.38       44.96       44.96       44.92               44.93
+2024             44.90       44.52       44.96       45.22       44.79       45.13       44.93       44.87       44.75                                                        
+
+Médianes         44.92       44.67       44.77       45.78       45.03       44.83       44.83       44.75       44.62       44.96       44.96       44.99
